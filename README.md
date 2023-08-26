@@ -6,5 +6,5 @@ Connect with me
 https://www.linkedin.com/in/akop-ktoyan-a697a4285/ 
 
 ## hard skills 
-Python, SQL, Pandas, Matplotlib, Numpy, Seaborn, Plotly, PostgreSQL, Маетматическая статистика 
+Python, SQL, Pandas, Matplotlib, Numpy, Seaborn, Plotly, PostgreSQL, Математическая статистика 
 
