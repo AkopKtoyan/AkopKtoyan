@@ -2,11 +2,9 @@
 - I am Junior Data Analyst 
 
 
-Connect with me 
 
-
-## hard skills 
-Python, SQL, Pandas, Matplotlib, Numpy, Seaborn, Plotly, PostgreSQL, Математическая статистика 
+## Hard Skills
+Python, SQL, Pandas, Matplotlib, Numpy, Seaborn, Plotly, PostgreSQL, Tableau, A/B тесты, Математическая статистика 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
